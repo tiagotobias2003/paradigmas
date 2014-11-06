@@ -15,3 +15,5 @@ Questões da prava de cd:
 1x FlipFlop
 1x FSM (Lista)
 2x RTL (PO PC)
+
+que anarquia é essa
